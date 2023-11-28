@@ -1,16 +1,18 @@
-### Hi there 👋
+Olá 👋 Meu nome é Vitor Cesar Kravszenko
 
-<!--
-**vitorkravs/vitorkravs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Software Developer
 
-Here are some ideas to get you started:
+estudante de Desenvolvimento Web e Tecnologia, com 20 anos de idade, atualmente concentrado em aprimorar minhas habilidades enquanto estudo Engenharia de Software. Minha jornada até agora tem sido marcada pelo constante aprimoramento das minhas habilidades como desenvolvedor web. Tenho me envolvido em projetos desafiadores, abrangendo desde websites até aplicações web funcionais e interativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✉️ Pode entrar em contato comigo com vitorkravs3@gmail.com
+🚀 estudando para ser Full Stack Software Developer
+🌍 Sou de Itapetininga - SP
+
+Skills
+Javascript Typescript HTML5 React  Svelte TailwindCSS Material UI NodeJS Express GraphQL MongoDB PostgreSQL
+
+Socials
+
+https://www.linkedin.com/in/vitor-kravszenko-80748a234/
+https://www.instagram.com/vitorkravs
+    
