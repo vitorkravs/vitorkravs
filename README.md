@@ -12,7 +12,7 @@ estudante de Desenvolvimento Web e Tecnologia, com 20 anos de idade, atualmente 
 
 Skills
 
-Javascript Typescript HTML5 React  Svelte TailwindCSS Material UI NodeJS Express GraphQL MongoDB PostgreSQL
+Javascript Typescript HTML5 React  Styled-Components TailwindCSS NodeJS Express GraphQL MongoDB PostgreSQL
 
 Links Sociais
 
