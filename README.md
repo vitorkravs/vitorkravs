@@ -1,8 +1,10 @@
-Olá 👋 Meu nome é Vitor Cesar Kravszenko
+Olá devs e recruters! 👋 Me chamo Vitor Cesar Kravszenko, sou um Desenvolvedor Full Stack.
 
-Full Stack Software Developer
+Tenho 20 anos e estou mergulhado nos estudos de Desenvolvimento Web e Tecnologia, concentrando meus esforços em aprimorar minhas habilidades enquanto me dedico ao curso de Engenharia de Software. Minha trajetória até aqui tem sido caracterizada pelo constante aprimoramento das minhas habilidades como desenvolvedor web.
 
-estudante de Desenvolvimento Web e Tecnologia, com 20 anos de idade, atualmente concentrado em aprimorar minhas habilidades enquanto estudo Engenharia de Software. Minha jornada até agora tem sido marcada pelo constante aprimoramento das minhas habilidades como desenvolvedor web. Tenho me envolvido em projetos desafiadores, abrangendo desde websites até aplicações web funcionais e interativas.
+Participar ativamente de projetos desafiadores faz parte da minha jornada, englobando desde websites até aplicações web totalmente funcionais e interativas.
+
+Estou empolgado em seguir nessa jornada de aprendizado contínuo, buscando sempre a excelência no desenvolvimento de software. 🚀
 
 ✉️ Pode entrar em contato comigo com vitorkravs3@gmail.com
 
