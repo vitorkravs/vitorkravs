@@ -14,7 +14,7 @@ Estou empolgado em seguir nessa jornada de aprendizado contínuo, buscando sempr
 
 Skills
 
-Javascript Typescript HTML5 React  Styled-Components TailwindCSS NodeJS Express GraphQL MongoDB PostgreSQL
+NextJS(React), Typescript, Sass, Styled-Components, TailwindCSS, NodeJS, Express, MySQL, MongoDB, APIRest, JSON, Git, Github.
 
 Links Sociais
 
